@@ -1,6 +1,6 @@
 I really hope you see this **README.md** firstly, thank you. 
 
-This is a tutorial you can follow to train **yolov5-5.0 on crowdhuman dataset**. Because I'm also a newbie, I just  write this and share what I've done. I'd like you also refer to [the original yolov5](https://github.com/ultralytics/yolov5).If you think this tutorial is useful, I wish you can star it.
+This is a tutorial you can follow to train **yolov5 on crowdhuman dataset**. Because I'm also a newbie, I just  write this and share what I've done. I'd like you also refer to [the original yolov5](https://github.com/ultralytics/yolov5).If you think this tutorial is useful, I wish you can star it.
 
 
 
